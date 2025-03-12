@@ -1,7 +1,7 @@
 /**
- * Clase Principal
+ * Clase Datos
  */
-public class Main {
+public class Datos {
     /**
      * Metodo principal
      * @param args no se utilizan
@@ -10,4 +10,10 @@ public class Main {
         // Imprime un mensaje
         System.out.println("Hola Examen!");
     }
+    public static void Datos(String fecha, String nombre, String Correo){
+
+        System.out.println(fecha + nombre + Correo);
+
+    }
+
 }
