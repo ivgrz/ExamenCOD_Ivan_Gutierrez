@@ -4,12 +4,12 @@
  * @version 1.0
  *
  */
-public class Main {
+public class inter {
     /**
      * Metodo principal
      * @param args no se utilizan
      */
-    public static void main(String[] args) {
+    public static void inter(String[] args) {
         // Imprime un mensaje
         System.out.println("Hola Examen!");
         String pantaia = "";
