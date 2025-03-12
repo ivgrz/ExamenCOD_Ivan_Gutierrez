@@ -21,5 +21,6 @@ de cada una de ellas
 ![dkas](imag/p.png)
 
 6. Realizamos la misma operacion con las ramas de Datos e Interface
+![dasa](imag/312.png)
 
 7. 
